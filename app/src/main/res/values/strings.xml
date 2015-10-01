@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Trabalho 02</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array
+        name="coração_eucaristico">
+        <item
+            > Ciência da Computação </item>
+    </string-array>
+
+    <string-array name="betim">
+        <item
+            > Ciência da Computação </item>
+
+    </string-array>
+
+</resources>
